@@ -6,7 +6,9 @@
 
 ### A Calculator for AliceOS
 ### Part of it
+### 
 -----
+### To be written in Bash 
 ### #.Features to be added 
 ### #.Error Handling 
  -----
